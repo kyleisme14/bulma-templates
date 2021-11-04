@@ -130,3 +130,8 @@ The templates are located in the `/templates` directory
 ## Licence
 
 Code released under [the MIT license](https://github.com/bulmatemplates/bulma-templates/blob/master/LICENSE).
+
+
+## Resource 
+
+These templates came from https://bulmatemplates.github.io/bulma-templates/
